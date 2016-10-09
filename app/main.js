@@ -36,6 +36,7 @@ const locales = {
   da: 'Danish',
   de: 'Deutsch',
   en: 'English',
+  es: 'Español',
   fr: 'Français',
   'pt-BR': 'Português (Brasil)',
   ru: 'Русский',
